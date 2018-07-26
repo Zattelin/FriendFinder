@@ -31,7 +31,7 @@ router.post('/api/friends', function (req, res) {
     }
     // Maximum differences of scores possible
     var maxScore = 40;
-    // Calls a defined function on each element of friendCalc, and returns an array that contains the results.
+    // Compares friends and newfriends array, and returns an array that contains the results.
     friendCalc.map(function (obj) {
         if (obj.totalDiff < maxScore) maxScore = obj.totalDiff;
     });
