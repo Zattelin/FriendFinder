@@ -19,7 +19,7 @@ var friendsList = [{
     {
         name: 'Barry Allen',
         picture: 'https://static.comicvine.com/uploads/scale_small/12/120019/3362537-100_11201.jpg',
-        scores: [5, 2, 5, 1, 4, 1, 3, 1, 5, 5]
+        scores: [5, 2, 5, 3, 4, 4, 3, 2, 5, 5]
     },
 
     {
@@ -43,7 +43,7 @@ var friendsList = [{
     {
         name: 'Thanos',
         picture: 'https://static.comicvine.com/uploads/scale_small/3/31666/5396935-thanos2016001-deodato-d9505.jpg',
-        scores: [1, 2, 2, 1, 2, 3, 1, 5, 1, 1]
+        scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
     }
 ];
 
